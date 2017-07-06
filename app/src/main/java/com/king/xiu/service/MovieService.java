@@ -1,6 +1,7 @@
 package com.king.xiu.service;
 
-import okhttp3.ResponseBody;
+import com.king.xiu.data.MovieEntity;
+
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
@@ -10,9 +11,7 @@ import retrofit2.http.Query;
  */
 
 public interface MovieService {
-//    @GET("http://ip.taobao.com/service/getIpInfo.php")
-//    Call<ResponseBody> getTopMovie(@Query("ip") String ip);
-
+    /**请求方法*/
     @GET("top250")
-    Call<ResponseBody> getTopMovie(@Query("start") int start, @Query("count") int count);
+    Call<MovieEntity> getTopMovie(@Query("start") int start, @Query("count") int count);
 }
