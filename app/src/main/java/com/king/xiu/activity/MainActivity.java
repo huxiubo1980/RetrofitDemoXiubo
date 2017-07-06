@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     void execRetrofix() {
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(URL)
-                .addConverterFactory(GsonConverterFactory.create())
+                .addConverterFactory(GsonConverterFactory.create()) /** json解析*/
                 .build();
         /**这里是interface，so,需要创建一个代理*/
         MovieService movieService = retrofit.create(MovieService.class);
