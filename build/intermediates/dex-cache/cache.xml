@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/a/tools/gradle-2.10/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/a/Downloads/RetrofixDemoXiubo/app/build/intermediates/pre-dexed/debug/gson-2.4_6bed55f1775eacf59ca7de2d1a196539a5332b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a/tools/gradle-2.10/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0-beta4/bd49baf667542c7d06f71e598bdee7fe57272013/adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="/Users/a/Downloads/RetrofixDemoXiubo/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0-beta4_901f942242198c8050b3097155f0d2db531bef36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a/tools/gradle-2.10/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/a/Downloads/RetrofixDemoXiubo/app/build/intermediates/pre-dexed/debug/rxjava-1.1.0_0438d8a285192f8f1f96cda9266168a61e5d1c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a/tools/gradle-2.10/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/a/Downloads/RetrofixDemoXiubo/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1_a7a5c380ab25338d101e4f7ae31d5a5310acc725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a/tools/gradle-2.10/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/a/Downloads/RetrofixDemoXiubo/app/build/intermediates/pre-dexed/debug/okio-1.6.0_0952405016ef055232cefe63a48fa512eaf82163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a/tools/gradle-2.10/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/a/Downloads/RetrofixDemoXiubo/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta4_b418ca9bbddcabe1a8d0006679bee228f1292a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a/tools/gradle-2.10/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/Users/a/Downloads/RetrofixDemoXiubo/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta4_e79fef81c3ce52c61f780f607db3c1c51806a936.jar" />
+    </item>
+
+</items>
